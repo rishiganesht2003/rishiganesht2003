@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Rishi Ganesh T, a passionate software developer with a keen interest in machine learning, computer vision, and full-stack development. I love solving complex problems through code and am always eager to learn and experiment with new technologies.<br><br>🔭 Current Project: Working on a Flask application for the classification of electronic components using YOLOv8.<br>🌱 Currently Learning: Advanced machine learning techniques and deployment strategies.<br>💼 Professional Experience: Experienced in developing web applications using Flask, Python, and various front-end technologies.<br>💡 Interests: Artificial Intelligence, Data Science, Computer Vision, and Robotics.<br>📫 Contact: rishiganesh2003@gmail.com<br>
+Hello! I'm Rishi Ganesh T, a passionate software developer with a keen interest in full-stack development. I love solving complex problems through code and am always eager to learn and experiment with new technologies.<br><br>🔭 Current Project: Working on a Flask application for the classification of electronic components using YOLOv8.<br><br>💼 Professional Experience: Experienced in developing web applications using Flask, Python, and various front-end technologies.<br>💡 Interests: Artificial Intelligence.<br>📫 Contact: rishiganesh2003@gmail.com<br>
 
 
 # 💻 Tech Stack:
